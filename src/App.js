@@ -1,7 +1,6 @@
 import './App.css';
 import Work from './work';
 import About from './about';
-import Home from './home'; //TODO delete
 import React from 'react';
 import Contact from './contact';
 import { useRef } from "react";
