@@ -42,10 +42,10 @@ function App() {
         <Work />
       </div>
       <div ref={about} className="about">
-        somehin
+        <About />
       </div>
       <div>
-        ero
+        <Contact />
       </div>
     </div>
   );

@@ -1,0 +1,79 @@
+.box3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.link1 {
+  text-decoration: underline;
+  color: black
+}
+
+.centered {
+  text-align: center;
+}
+
+.image0 {
+  width: 19rem;
+  border-radius: .75rem;
+}
+
+.horizontal-box {
+  display: flex;
+  flex-direction: row;
+  gap: 2.25rem;
+}
+
+.image-box {
+  display: flex;
+}
+
+.other-box {
+  width: 40%;
+}
+
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('./PP\ Editorial\ New/PPEditorialNew-Ultralight.otf');
+  font-weight: 300;
+}
+
+.main-text2 {
+  font-family: 'PP Editorial New';
+  font-size: 1.5rem;
+
+}
+
+.horiz {
+  width: 50rem;
+  position: fixed;
+  top: 25%;
+  left: 25%;
+}
+
+.horiz1 {
+  width: 40rem;
+  position: fixed;
+  top: 5%;
+  left: 30%;
+}
+
+.horiz2 {
+  width: 32rem;
+  position: fixed;
+  top: 2%;
+  left: 60%;
+}
+
+.horiz3 {
+  width: 35rem;
+  position: fixed;
+  top: 5%;
+  left: 55%;
+}
+
+.horiz4 {
+  width: 47.5rem;
+  position: fixed;
+  top: 3.5%;
+  left: 47.5%;
+}

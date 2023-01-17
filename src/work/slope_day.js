@@ -21,7 +21,7 @@ function SlopeDay() {
       </a>
       {isShown &&
         <div class="container">
-          <img class="image5" src={image} />
+          <img class="image2" src={image} />
         </div>
       }
     </div>
