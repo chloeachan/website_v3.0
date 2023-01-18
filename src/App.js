@@ -27,7 +27,7 @@ function App() {
               <br></br>
               <p class="main-text">Hi! I’m Chloe, a first-year at <a class="link" href="https://www.cornell.edu/">Cornell University*</a> studying computer science and math. I’m driven to create a bridge between design and engineering to facilitate a better means of user experience and interaction with technology.</p>
               <p class="main-text no-margin">Feel free to connect with me on <a class="link" href="https://www.linkedin.com/in/chloeachann/">Linkedin*</a> or email me at <a class="link" href="mailto:cac499@gmail.com">cac499@cornell.edu*</a> to learn more!</p>
-              <p class="text no-margin">* = hover over text for more information</p>
+              <p class="text no-margin">* = click on text for more information</p>
               <br></br>
               <br></br>
               <br></br>
