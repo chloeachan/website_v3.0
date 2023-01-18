@@ -1,8 +1,15 @@
 body {
   margin: 0;
   padding: 0;
-  
-  background: radial-gradient(circle at center, #e5ffb8, #d4ffb8, #bcffb8, #c4e9df, #c4e2e9, #c4c5e9, #c6c4e9, #cacdf0, #d1caf0, #dfcaf0);
+  /* background: radial-gradient(#e5ffb8, #d4ffb8, #bcffb8, #c4e9df, #c4e2e9, #c4c5e9, #c6c4e9, #cacdf0; */
+  /* background: radial-gradient(circle at center, #e5ffb8, #d4ffb8, #bcffb8, #c4e9df, #c4e2e9, #c4c5e9, #c6c4e9, #cacdf0, #d1caf0, #dfcaf0); */
+}
+
+.whole-app {
+  background: radial-gradient(circle at center, #e5ffb8, #bcffb8, #c4e2e9, #c4d2e9, #cacdf0) no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');

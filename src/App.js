@@ -16,7 +16,7 @@ function App() {
     });
   };
   return (
-    <div>
+    <div class="whole-app">
       <div class="container">
         <div class="content">
           <div class="grid-container">
