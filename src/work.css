@@ -9,7 +9,7 @@
 .container1 {
   margin: 0;
   padding: 0;
-  background: radial-gradient(circle at center, #e5ffb8, #bcffb8, #c4e2e9, #c4d2e9, #cacdf0);
+  /* background: radial-gradient(circle at center, #e5ffb8, #bcffb8, #c4e2e9, #c4d2e9, #cacdf0); */
 }
 
 .no-margin {

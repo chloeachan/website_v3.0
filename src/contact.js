@@ -27,24 +27,6 @@ function Contact() {
         <br></br>
       </div>
     </div>
-    // <div class="container">
-    //   <div class="content">
-    //     <div class="grid-container1">
-    //       <p class="text1 top-left1">CONTACT</p>
-    //       <div class="middle2">
-    //         <p>thank you for stopping by!</p>
-    //         <p>CHLOE CHAN x 2023</p>
-    //       </div>
-    //       {/* <div class="column">
-    //         <a class="text">linkedin</a>
-    //         <a class="text">email</a>
-    //         <a class="text">github</a>
-    //         <a class="text">behance</a>
-    //       </div> */}
-    //     </div>
-    //     <br></br>
-    //   </div>
-    // </div>
   );
 }
 
