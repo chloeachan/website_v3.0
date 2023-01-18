@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/PPEditorialNew-Ultralight.c1591103.otf"
   },
   {
-    "revision": "0b48f55245a7dab031540524e2bb325d",
+    "revision": "d7cff1a932d372a50745cd62e37a7746",
     "url": "/index.html"
   }
 ];
