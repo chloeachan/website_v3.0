@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.5d232388.chunk.css",
+  "main.css": "/static/css/main.b61e0ddb.chunk.css",
   "main.js": "/static/js/main.330942f3.chunk.js",
   "main.js.map": "/static/js/main.330942f3.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -7,9 +7,9 @@
   "static/js/2.0aa4227c.chunk.js": "/static/js/2.0aa4227c.chunk.js",
   "static/js/2.0aa4227c.chunk.js.map": "/static/js/2.0aa4227c.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.dc40235cb73c4ebb0f0b359f0354e5cc.js": "/precache-manifest.dc40235cb73c4ebb0f0b359f0354e5cc.js",
+  "precache-manifest.f4dd072bc7a17e3ff0c3f3f98712169f.js": "/precache-manifest.f4dd072bc7a17e3ff0c3f3f98712169f.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.5d232388.chunk.css.map": "/static/css/main.5d232388.chunk.css.map",
+  "static/css/main.b61e0ddb.chunk.css.map": "/static/css/main.b61e0ddb.chunk.css.map",
   "static/media/3d-candles.png": "/static/media/3d-candles.6dc77a4e.png",
   "static/media/about.css": "/static/media/PPEditorialNew-Ultralight.c1591103.otf",
   "static/media/avo.gif": "/static/media/avo.20c547ee.gif",
