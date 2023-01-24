@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "5fc3d5c34f4889478a14",
-    "url": "/static/css/main.b61e0ddb.chunk.css"
+    "revision": "a76c552185efc11a9629",
+    "url": "/static/css/main.8f2a2dd7.chunk.css"
   },
   {
-    "revision": "5fc3d5c34f4889478a14",
+    "revision": "a76c552185efc11a9629",
     "url": "/static/js/main.330942f3.chunk.js"
   },
   {
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/PPEditorialNew-Ultralight.c1591103.otf"
   },
   {
-    "revision": "197129b9c8b4eee62d53657c05daf715",
+    "revision": "05199f5bad3b9bf0436a7d301a4aa023",
     "url": "/index.html"
   }
 ];
