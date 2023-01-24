@@ -4,7 +4,9 @@ body {
 }
 
 .whole-app {
-  background: radial-gradient(circle at center, #e5ffb8, #bcffb8, #c4e2e9, #c4d2e9, #cacdf0) no-repeat;
+  /* background: radial-gradient(circle at center, #e5ffb8, #bcffb8, #c4e2e9, #c4d2e9, #cacdf0) no-repeat; */
+  /* background: radial-gradient(rgb(245, 219, 219), #bacfed) no-repeat; */
+  background: radial-gradient(rgb(206, 192, 228), #b4cced) no-repeat;
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
