@@ -10,6 +10,7 @@ body {
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
+  width: 100%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');

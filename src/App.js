@@ -15,6 +15,7 @@ function App() {
       behavior: "smooth",
     });
   };
+
   return (
     <div class="whole-app">
       <div class="container">
