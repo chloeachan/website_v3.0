@@ -15,10 +15,10 @@ function Contact() {
             </div>
             <div class="box2">
               <p class="main-text1 no-margin2">socials</p>
-              <a class="text link1"><br></br>linkedin</a>
-              <a class="text link1"><br></br>email</a>
-              <a class="text link1"><br></br>github</a>
-              <a class="text link1"><br></br>behance</a>
+              <a class="text link1" href="https://www.linkedin.com/in/chloeachann/"><br></br>linkedin</a>
+              <a class="text link1" href="mailto:cac499@cornell.edu"><br></br>email</a>
+              <a class="text link1" href="https://github.com/chloeachan"><br></br>github</a>
+              <a class="text link1" href="https://www.behance.net/chloeachan"><br></br>behance</a>
             </div>
           </div>
         </div>
