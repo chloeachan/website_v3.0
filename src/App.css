@@ -24,7 +24,7 @@ body {
 .container {
   margin: 0;
   padding: 0;
-  height: 100%;
+  /* height: 100%; */
 }
 
 .link,
@@ -49,6 +49,7 @@ body {
   display: grid;
   grid-template-columns: auto auto auto auto auto auto auto auto;
   grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+  width: 100%;
 }
 
 .bottom-left {
