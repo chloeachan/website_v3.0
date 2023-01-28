@@ -10,7 +10,7 @@ body {
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
-  width: 100%;
+  /* width: 100%; */
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
@@ -24,7 +24,6 @@ body {
 .container {
   margin: 0;
   padding: 0;
-  /* height: 100%; */
 }
 
 .link,
@@ -37,15 +36,6 @@ body {
 .no-margin {
   padding: 0;
   margin-bottom: .25rem;
-}
-
-@media only screen and (max-width: 700px) {
-
-  .content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-top: .5rem;
-  }
 }
 
 .content {
