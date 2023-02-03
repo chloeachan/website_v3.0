@@ -17,7 +17,7 @@ function Avo() {
   return (
     <div class="section">
       <a class="hovered-design link" href="https://medium.com/@cac499/avo-case-study-re-designed-website-eedfcca4212b" onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
-        <p class="main-text1 no-margin1">02. Avo Website Redesign*</p>
+        <p class="main-text1 no-margin1">02. Avo Website Redesign Case Study*</p>
         <p class="text no-margin1">Web + Visual Design | January 2023</p>
       </a>
       {isShown &&

@@ -16,8 +16,8 @@ function Get() {
 
   return (
     <div class="section">
-      <a class="hovered-design link" onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
-        <p class="main-text3 no-margin1">01. GET App Case Study</p>
+      <a class="hovered-design link" href="https://medium.com/@chloeachan/get-app-case-study-incorporating-dietary-restrictions-and-allergens-f29037569ed4" onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
+        <p class="main-text3 no-margin1">01. GET App Case Study*</p>
         <p class="text1 no-margin1">UX Design | October 2022 - December 2022</p>
       </a>
       {isShown &&
